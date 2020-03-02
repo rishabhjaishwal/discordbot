@@ -1,0 +1,14 @@
+{
+    "prefix": "!",
+    "search": "google",
+    "meet": [
+        "hii",
+        "hello",
+        "hey"
+    ],
+    "BOT_NAME": "discordbot7",
+    "TOKEN": "NjgwNzQ1MDY3OTA3OTA3NTk0.XlEbfw.b72gVeDRRuAVK807n5P_9jTQ39I",
+    "GOOGLE_KEY": "AIzaSyBFxUlILNqqjHNVKjcOJM9ROQmSsSW_U60",
+    "SEARCH_ENGINE_ID": "004235135699202359616:wamttqwxslp",
+    "URL": "https://content.googleapis.com/customsearch/v1"
+}
